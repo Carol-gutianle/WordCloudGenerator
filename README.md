@@ -1,2 +1,2 @@
 # WordCloudGenerator
-词云生成
+打开WordCloud_generator.ipynb直接运行就可以
